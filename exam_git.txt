@@ -1,3 +1,1 @@
-il s'agit de mon exam de GIT
--h
--Pour créer ce fichier j'ai utiliser: touch exam_git.txt
+test du prof
